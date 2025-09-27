@@ -1,5 +1,5 @@
 # Sacrifices MUST be Made
 
-[Play Here](itch.io/hehehe)
+[Play Here](https://itch.io/hehehe)
 
-This is a submission for [Daydream](daydream.hackclub.com), a Global Game Jam.
+This is a submission for [Daydream](https://daydream.hackclub.com), a Global Game Jam.

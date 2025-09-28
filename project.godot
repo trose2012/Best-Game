@@ -10,11 +10,13 @@ config_version=5
 
 [application]
 
-config/name="Best Game"
+config/name="A Platformer"
+config/description="A simple Platformer game made by Theo and JD for Daydream"
+config/version="PROTOTYPE"
 run/main_scene="uid://dcqf1sutotwqa"
 config/features=PackedStringArray("4.5", "Mobile")
-boot_splash/image="uid://c3tv6oy61opja"
-config/icon="res://icon.svg"
+boot_splash/image="uid://cg013dn06tgk0"
+config/icon="uid://cu47fvy81sb41"
 
 [input]
 

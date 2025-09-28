@@ -1,4 +1,4 @@
-# _Sacrifices MUST be Made_
+# _Sacrifices must be made..._
 
 [Play Here](https://itch.io/hehehe)
 
